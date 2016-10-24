@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//sina_weibo/items.py=utf-8
+encoding//sina_weibo/settings.py=utf-8
+encoding//sina_weibo/spiders/spiders.py=utf-8
+encoding//sina_weibo/spiders/weibo_user.py=utf-8
